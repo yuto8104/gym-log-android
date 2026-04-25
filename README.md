@@ -49,3 +49,17 @@ Kotlin / Jetpack Compose で制作した、Android向けのトレーニング記
 
 Androidアプリ制作の学習として、Kotlin と Jetpack Compose を使い、  
 入力・一覧表示・削除・保存機能を持つ小規模アプリを制作しました。
+
+## スクリーンショット
+
+### 記録入力画面
+
+![記録入力画面](screenshots_input.png)
+
+### 種目アドバイス・入力画面
+
+![種目アドバイス・入力画面](screenshots_advice.png)
+
+### 記録一覧画面
+
+![記録一覧画面](screenshots_records.png)
